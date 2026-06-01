@@ -1,8 +1,0 @@
-# robots.txt for Mountain Brew Cafe
-# Allow all crawlers to index the site
-
-User-agent: *
-Disallow:
-
-# Uncomment and set your sitemap URL if you have one
-# Sitemap: https://example.com/sitemap.xml
