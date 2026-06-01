@@ -9,7 +9,6 @@ Premium Coffee Shop Landing Page
 - FAQ Accordion
 - Animated Counter
 - SEO Ready
-- Dark Mode
 
 ## Tech
 
